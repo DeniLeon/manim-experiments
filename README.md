@@ -1,3 +1,3 @@
-# manim-experiments
-Este repositorio es para practicar Manim mientras aprendo a animar conceptos de algoritmos y matemáticas.
-El código no está optimizado y cambia constantemente. Esto se irá actualizando!!!...
+# Manim Experiments
+This repository is a personal playground for learning Manim and creating animations for math and algorithmic concepts.
+The code is experimental, not optimized, and evolves constantly as I learn!!
