@@ -1,0 +1,16 @@
+# Manim output
+media/
+videos/
+images/
+partial_movie_files/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# macOS noise
+.DS_Store
